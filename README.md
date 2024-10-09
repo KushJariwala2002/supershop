@@ -78,3 +78,17 @@ This folder contains the application's views and additional resources.
 - User Registration
 - User Login
 - User Dashboard
+## Technologies Used
+
+This project utilizes the following technologies:
+
+- **PHP**: The server-side scripting language used for back-end development.
+- **MySQL**: A relational database management system used for storing application data.
+- **HTML5/CSS3**: For structuring and styling the front-end of the application.
+- **JavaScript (ES6)**: Used for client-side interactivity and enhancing user experience.
+- **Bootstrap**: A front-end framework for responsive and mobile-first web development.
+- **AJAX**: For making asynchronous requests and updating parts of the web page without refreshing.
+- **Git**: Version control system for tracking changes in source code.
+- **Composer**: PHP package manager to handle project dependencies.
+- **jQuery**: A JavaScript library used for simplifying DOM manipulation and event handling.
+
